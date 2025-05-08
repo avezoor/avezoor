@@ -8,7 +8,7 @@
 <p align="justify">I am currently working at FutureLabs and diving deep into the world of Artificial Intelligence (AI). I have a strong passion for problem-solving, especially in developing innovative solutions to various technological challenges. Additionally, I actively contribute to the open-source community because I believe that collaboration and knowledge-sharing accelerate innovation. I enjoy building cool projects, whether they are experimental or have real-world impact. If you're interested in discussing Data, AI, or Technology, feel free to ask—I’m always open to sharing insights and learning together. Oh, and a fun fact: I think I’m funny, though I might be the only one who thinks so! 😆🚀</p>
 
 ### 🚀 Projects  
-[![ZForge Library](https://img.shields.io/badge/ZForge%20Library-purple?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zforge.vercel.app/) [![+ 5](https://img.shields.io/badge/+%205-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avezoor?tab=repositories) 
+[![ZForge Library](https://img.shields.io/badge/ZForge%20Library-purple?style=for-the-badge&logo=python&logoColor=white)](https://zforge.vercel.app/) [![+ 5](https://img.shields.io/badge/+%205-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avezoor?tab=repositories) 
 
 ### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izzar-suly-nashrudin)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ave.zoor)
