@@ -8,7 +8,7 @@
 <p align="justify">I am a mathematician who is interested in modern technology. I also enjoy math, especially in data analysis and problem solving. In addition, I also follow the development of the crypto world, including blockchain and decentralized technology. I was born on November 18, 2004 in Jombang, East Java, Indonesia.</p>
 
 ### 🚀 Projects  
-[![ZForge Library](https://img.shields.io/badge/ZForge%20Library-purple?style=for-the-badge&logo=python&logoColor=white)](https://zforge.vercel.app/) [![+ 5](https://img.shields.io/badge/+%205-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avezoor?tab=repositories) 
+[![ZForge Library](https://img.shields.io/badge/BPJS%20Library-purple?style=for-the-badge&logo=python&logoColor=white)](https://github.com/avezoor/bpjs) [![+ 5](https://img.shields.io/badge/+%205-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avezoor?tab=repositories) 
 
 ### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izzar-suly-nashrudin)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ave.zoor)
