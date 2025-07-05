@@ -5,7 +5,7 @@
 
 ### 🔹 About Me  
 [![Portofolio](https://img.shields.io/badge/Portofolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avezoor.vercel.app/)
-<p align="justify">I am a mathematician who is interested in modern technology. I also enjoy math, especially in data analysis and problem solving. In addition, I also follow the development of the crypto world, including blockchain and decentralized technology. I was born on November 18, 2004 in Jombang, East Java, Indonesia.</p>
+<p align="justify">I am a mathematician who is interested in modern technology. I also enjoy math, especially in data analysis and problem solving. In addition, I also keep up with the world of investment and AI.</p>
 
 ### 🚀 Projects  
 [![ZForge Library](https://img.shields.io/badge/BPJS%20Library-purple?style=for-the-badge&logo=python&logoColor=white)](https://github.com/avezoor/bpjs) [![+ 5](https://img.shields.io/badge/+%205-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avezoor?tab=repositories) 
