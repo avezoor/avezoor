@@ -4,7 +4,7 @@
 ---
 
 ### 🔹 About Me  
-[![Portofolio](https://img.shields.io/badge/Portofolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avezoor.vercel.app/)
+[![Portofolio](https://img.shields.io/badge/Portofolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://avezoor.my.id)
 <p align="justify">I am a mathematician who is interested in modern technology. I also enjoy math, especially in data analysis and problem solving. In addition, I also keep up with the world of investment and AI.</p>
 
 ### 🚀 Projects  
