@@ -8,7 +8,7 @@
 <p align="justify">I am a mathematician who is interested in modern technology. I also enjoy math, especially in data analysis and problem solving. In addition, I also keep up with the world of investment and AI.</p>
 
 ### 🚀 Projects  
-[![ZForge Library](https://img.shields.io/badge/MahaData%20Library-purple?style=for-the-badge&logo=python&logoColor=white)](https://github.com/avezoor/MahaData) [![+ 5](https://img.shields.io/badge/+%205-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avezoor?tab=repositories) 
+[![+ 5](https://img.shields.io/badge/+%205-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avezoor?tab=repositories) 
 
 ### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izzar-suly-nashrudin)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ave.zoor)
